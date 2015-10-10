@@ -56,6 +56,6 @@ production:
   adapter: postgresql
   encoding: unicode
   database: app_production
-  pool: 5
+  # pool: 5
   username:
   password:
